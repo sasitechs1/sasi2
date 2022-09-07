@@ -13,4 +13,4 @@ else
 	echo "please type correct password"
 	echo "the password you have entered is :"$b
 fi
-
+date
