@@ -1,4 +1,0 @@
-hai how are u:wq
-git hooks
-readme .md file
-
