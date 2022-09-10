@@ -1,6 +1,0 @@
-dress 
-echo 
-date 
-cal
-date
-:wq
