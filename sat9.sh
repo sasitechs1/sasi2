@@ -6,5 +6,7 @@ else
         echo "no write permission for current dir.."
 fi
 cal 
-
+date 
+hostname
+whoami
 
