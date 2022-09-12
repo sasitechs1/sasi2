@@ -11,7 +11,4 @@ cal
 
 date
 
-=======
-date 
->>>>>>> 0f8ffb6 (ser)
 
