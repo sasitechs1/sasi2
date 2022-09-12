@@ -20,3 +20,4 @@ else
 	echo "FILENAME NUMBER"
 fi
 
+date 
