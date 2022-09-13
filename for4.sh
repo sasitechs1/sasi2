@@ -19,5 +19,4 @@ else
 	echo "please enter any number after file name"
 	echo "FILENAME NUMBER"
 fi
-
-date 
+username
