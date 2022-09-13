@@ -19,5 +19,9 @@ else
 	echo "please enter any number after file name"
 	echo "FILENAME NUMBER"
 fi
+<<<<<<< HEAD
 
 date 
+=======e
+
+>>>>>>> 51a8085d2b5b4457e848ba9824f141930ef30cb3
