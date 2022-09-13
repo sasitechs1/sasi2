@@ -5,4 +5,4 @@ then
 else
         echo "no read permission for current dir.."
 fi
-
+date 
